@@ -20,6 +20,7 @@ div {
     }
     button {
         $color: #eee;
+        color: lightyellow;
         flex-basis: 20%;
         height: 100%;
         border: 1px solid #ccc;
@@ -28,7 +29,7 @@ div {
         -moz-border-radius: 5px;
         -ms-border-radius: 5px;
         -o-border-radius: 5px;
-        background: $color;
+        background: lightgreen;
         transition: .3s all;
         -webkit-transition: .3s all;
         -moz-transition: .3s all;
